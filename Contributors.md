@@ -619,3 +619,7 @@ About: Student of Bio Technology <br/>
 Place: West Jakarta, Indonesia<br/>
 About: Student of Software Enginering <br/>
 </br>
+</br>Name: [Nithesh Gurudaas](https://github.com/nithesh-gurudaas)<br/>
+Place: Tamil Nadu, India<br/>
+About: 3rd year CSE student at VIT Chennai, passionate about game development and coding in general<br/>
+</br>
